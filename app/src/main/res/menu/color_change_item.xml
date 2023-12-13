@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/white"
+        android:title="White"
+        android:icon="@drawable/add"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/Black"
+        android:title="Black"
+        android:icon="@drawable/add"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/DarkGrey"
+        android:title="DarkGrey"
+        android:icon="@drawable/add"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/Red"
+        android:title="Red"
+        android:icon="@drawable/add"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/Green"
+        android:title="Green"
+        android:icon="@drawable/add"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/Yellow"
+        android:title="Yellow"
+        android:icon="@drawable/add"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/Blue"
+        android:title="Blue"
+        android:icon="@drawable/add"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/Grey"
+        android:title="Grey"
+        android:icon="@drawable/add"
+        app:showAsAction="never"/>
+
+    <item
+        android:id="@+id/Magenta"
+        android:title="Magenta"
+        android:icon="@drawable/add"
+        app:showAsAction="never"/>
+</menu>
